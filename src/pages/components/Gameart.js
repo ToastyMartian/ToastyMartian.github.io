@@ -3,7 +3,7 @@ function Gameart() {
         <div className='font-overpass'>
             <h1 className='text-center'>Game art</h1>
 
-            <section className='bg-cyan-dark mx-8 rounded-tl-large mt-20'>
+            <section className='bg-cyan-dark mx-8 rounded-tl-large mt-10'>
                 <h2 className='text-center py-5'>Billy (2D Unity game)</h2>
                 <div className='text-purple-light font-thin max-w-prose m-auto'>
                     <h4>Billy is a 2D pixel horror game that me and a team of 4 people made during our fourth period in year 1. Here we were given the challenge to design and develop a small game based on three random categories. Ours were Exploration, Discovery and Worms.</h4>
