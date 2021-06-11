@@ -7,7 +7,8 @@ function ThreeDArt() {
                 <h2 className='text-center py-5'>Afternoon Bistro</h2>
                 <div className='text-purple-light font-thin max-w-prose m-auto'>
                     <h4>This is one of the very first 3D projects I've done using Blender. Here, I followed a well known tutorial and experimented with modeling, lighting and texturing in the different objects</h4>
-                    <h4 className='py-5'>Though the scene setup is very similar to the original, I tried my best to make my own creative version of the scenery for extra practice</h4>
+                    <h4 className='py-5'>Though the scene setup is very similar to the original, I tried my best to make my own creative version of the scenery for extra practice.</h4>
+                    <h4 className='py-5'>This was also done through following different tutorials and walkthroughs, but I also frequently consulted 3D art communities for tips and feedback.</h4>
                 </div>
                 <h3 className='ml-10 pb-5'>Gallery</h3>
             </section>
@@ -15,8 +16,9 @@ function ThreeDArt() {
             <section className='bg-cyan-dark mx-8 rounded-tl-large mt-20'>
                 <h2 className='text-center py-5'>Industrial Living Room (Work in progress)</h2>
                 <div className='text-purple-light font-thin max-w-prose m-auto'>
-                    <h4>This is a small 3D project that I started independently to really challenge myself and practice modeling realistic real life objects</h4> 
-                    <h4 className='py-5'>Added to this, I decided to turn a single chair into a personalized living room scenery to also practice composition and proper scaling of certain objects.</h4>
+                    <h4>This is a small 3D project that I started independently to really challenge myself and practice modeling realistic real life objects.</h4> 
+                    <h4 className='py-5'>Added to this, I decided to turn a single chair into a personalized living room scenery to also practice composition and proper scaling of certain objects. The scene itself is how I visualize my very own studio apartment or living room.</h4>
+                    <h4 className='py-5'>I made this by taking inspiration from existing furniture and using these as reference to make my own preferred interpretation of them.</h4>
                 </div>
                 <h3 className='ml-10 pb-5'>Gallery</h3>
             </section>

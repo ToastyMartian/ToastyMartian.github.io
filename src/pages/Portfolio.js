@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
 import Gameart from './components/Gameart';
 import ThreeDArt from './components/ThreeDArt';
-import Frontend from './components/Frontend';
+import Webdev from './components/Webdev';
 import UXDesign from './components/UXDesign';
 
 function Portfolio() {
@@ -81,7 +81,7 @@ function Portfolio() {
                     <path d="m263.5,287h8c4.142,0 7.5-3.358 7.5-7.5s-3.358-7.5-7.5-7.5h-8c-4.142,0-7.5,3.358-7.5,7.5s3.358,7.5 7.5,7.5z"/>
                   </g>
                 </svg>
-                <h3 className='mt-5 text-center'><Link to='/portfolio/frontend'>Front-End</Link></h3>
+                <h3 className='mt-5 text-center'><Link to='/portfolio/webdev'>Web Development</Link></h3>
                 <p className='text-xs m-2 ml-5 pt-2 font-overpass font-light text-purple-light'>Web-layout design and styling. Event-based programming and customized routing</p>
               </div>
 
@@ -117,8 +117,8 @@ function Portfolio() {
                   <ThreeDArt />
                 )}/>
 
-               <Route exact path='/portfolio/frontend' render={ props => (
-                 <Frontend />
+               <Route exact path='/portfolio/webdev' render={ props => (
+                 <Webdev />
                )}/>
                 
                 <Route exact path='/portfolio/uxdesign' render={ props => (
