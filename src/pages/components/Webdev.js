@@ -33,6 +33,16 @@ function Webdev() {
                 </div>
                 <h3 className='ml-10 pb-5'>Gallery</h3>
             </section>
+
+            <section className='bg-cyan-dark mx-8 rounded-tl-large mt-20'>
+                <h2 className='text-center py-5'>Reptileshop</h2>
+                <div className='text-purple-light font-thin max-w-prose m-auto'>
+                    <h4>The reptileshop is a Laravel web application that I made as a programming assignment in the first period of year 2. Here, we were learning frameworks for the first time and started with a PHP framework, combined with a MySQL database.</h4> 
+                    <h4 className='py-5'>As this was an e-commerce application, I created a database structure with different reptiles and/or products that would be for sale in a reptile shop, and fetched this data using Laravel and CRUD.</h4>
+                    <h4 className='py-5'>I also implemented a filtering system that allowed users to sort the products using a set of categories, added a user role system that gave more access to someone with an admin role or less to a regular user, and experimented with using Bootstrap.</h4>
+                </div>
+                <h3 className='ml-10 pb-5'>Gallery</h3>
+            </section>
         </div>
     );
 }
