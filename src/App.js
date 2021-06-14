@@ -122,7 +122,7 @@ function App() {
                     <path d="M23,38.028h-3v-3c0-0.553-0.448-1-1-1h-6c-0.552,0-1,0.447-1,1v3H9c-0.552,0-1,0.447-1,1v6c0,0.553,0.448,1,1,1h3v3 c0,0.553,0.448,1,1,1h6c0.552,0,1-0.447,1-1v-3h3c0.552,0,1-0.447,1-1v-6C24,38.474,23.552,38.028,23,38.028z M22,44.028h-3 c-0.552,0-1,0.447-1,1v3h-4v-3c0-0.553-0.448-1-1-1h-3v-4h3c0.552,0,1-0.447,1-1v-3h4v3c0,0.553,0.448,1,1,1h3V44.028z"/>
                   </g>
                 </svg>
-                <h3 className='mt-5 text-center'><Link to='/portfolio/gameart'>Game Art</Link></h3>
+                <h3 className='mt-5 text-center'><Link to='/portfolio'>Game Art</Link></h3>
                 <p className='text-xs m-2 ml-5 pt-2 font-overpass font-light text-purple-light'>Character and environment designs. Modelling, rigging and rendering game models.</p>
               </div>
 
@@ -141,7 +141,7 @@ function App() {
                     <path d="m228.74,152.904c-5.522,0-10,4.477-10,10v20.599c0,5.523 4.478,10 10,10s10-4.477 10-10v-20.599c0-5.523-4.477-10-10-10z"/>
                   </g>
                 </svg>
-                <h3 className='mt-5 text-center'><Link to='/portfolio/3dart'>3D modeling</Link></h3>
+                <h3 className='mt-5 text-center'><Link to='/portfolio'>3D modeling</Link></h3>
                 <p className='text-xs m-2 ml-5 pt-2 font-overpass font-light text-purple-light'>Detailed 3D renders. Modelling and rendering objects and environments</p>
               </div>
 
@@ -172,7 +172,7 @@ function App() {
                     <path d="m263.5,287h8c4.142,0 7.5-3.358 7.5-7.5s-3.358-7.5-7.5-7.5h-8c-4.142,0-7.5,3.358-7.5,7.5s3.358,7.5 7.5,7.5z"/>
                   </g>
                 </svg>
-                <h3 className='mt-5 text-center'><Link to='/portfolio/frontend'>Front-End</Link></h3>
+                <h3 className='mt-5 text-center'><Link to='/portfolio'>Front-End</Link></h3>
                 <p className='text-xs m-2 ml-5 pt-2 font-overpass font-light text-purple-light'>Web-layout design and styling. Event-based programming and customized routing</p>
               </div>
 
@@ -194,7 +194,7 @@ function App() {
                       <path d="M456,416H77.872l-70,40l70,40H456c22.056,0,40-17.944,40-40C496,433.944,478.056,416,456,416z M80,478.784L40.128,456 L80,433.216V478.784z M384,480H96v-48h288V480z M416,480h-16v-48h16V480z M456,480h-24v-48h24c13.232,0,24,10.768,24,24 S469.232,480,456,480z"/>
                   </g>
                 </svg>
-                <h3 className='mt-5 text-center'><Link to='/portfolio/uxdesign'>UI/UX Design</Link></h3>
+                <h3 className='mt-5 text-center'><Link to='/portfolio'>UI/UX Design</Link></h3>
                 <p className='text-xs m-2 ml-5 pt-2 font-overpass font-light text-purple-light'>Design based on user experience. Prototyping and testing new designs</p>
               </div>
             </section>
