@@ -1,4 +1,4 @@
-import { HashRouter, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
 //components
 import Header from './layout/Header';
@@ -11,7 +11,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <HashRouter>
+    <Router>
       <div className='relative min-h-screen bg-backdrop bg-cover bg-left bg-repeat-y text-gray-50 pb-20 overflow-x-hidden'>  
         <Header />
 
@@ -218,7 +218,7 @@ function App() {
 
         <Footer />
       </div>
-    </HashRouter>
+    </Router>
   );
 }
 

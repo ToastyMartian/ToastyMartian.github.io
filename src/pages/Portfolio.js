@@ -1,4 +1,4 @@
-import { HashRouter, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
 import Gameart from './components/Gameart';
 import ThreeDArt from './components/ThreeDArt';
@@ -7,7 +7,7 @@ import UXDesign from './components/UXDesign';
 
 function Portfolio() {
     return (
-      <HashRouter>
+      <Router>
         <div>
             <h1 className='text-4xl font-overpass m-auto mt-16 text-center'>My Work</h1>
             <h4 className='m-auto max-w-1/3 pt-5 font-overpass font-light text-purple-light'>Below you will find some of my previous work in both college and personal projects. Select one of the categories to view all related projects.</h4>
@@ -126,7 +126,7 @@ function Portfolio() {
                 )}/>  
             </section>
         </div>
-      </HashRouter> 
+      </Router> 
     );
   }
   
