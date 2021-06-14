@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/toastymartian.github.io/static/css/main.a71ce20d.chunk.css",
+    "main.js": "/toastymartian.github.io/static/js/main.efe38749.chunk.js",
+    "main.js.map": "/toastymartian.github.io/static/js/main.efe38749.chunk.js.map",
+    "runtime-main.js": "/toastymartian.github.io/static/js/runtime-main.8574e011.js",
+    "runtime-main.js.map": "/toastymartian.github.io/static/js/runtime-main.8574e011.js.map",
+    "static/js/2.2366236c.chunk.js": "/toastymartian.github.io/static/js/2.2366236c.chunk.js",
+    "static/js/2.2366236c.chunk.js.map": "/toastymartian.github.io/static/js/2.2366236c.chunk.js.map",
+    "static/js/3.314a566b.chunk.js": "/toastymartian.github.io/static/js/3.314a566b.chunk.js",
+    "static/js/3.314a566b.chunk.js.map": "/toastymartian.github.io/static/js/3.314a566b.chunk.js.map",
+    "index.html": "/toastymartian.github.io/index.html",
+    "static/css/main.a71ce20d.chunk.css.map": "/toastymartian.github.io/static/css/main.a71ce20d.chunk.css.map",
+    "static/js/2.2366236c.chunk.js.LICENSE.txt": "/toastymartian.github.io/static/js/2.2366236c.chunk.js.LICENSE.txt",
+    "static/media/profile.1ff274ae.jpg": "/toastymartian.github.io/static/media/profile.1ff274ae.jpg",
+    "static/media/index.css": "/toastymartian.github.io/static/media/wallpaper2.12daa058.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8574e011.js",
+    "static/js/2.2366236c.chunk.js",
+    "static/css/main.a71ce20d.chunk.css",
+    "static/js/main.efe38749.chunk.js"
+  ]
+}
