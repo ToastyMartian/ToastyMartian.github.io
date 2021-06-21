@@ -1,7 +1,7 @@
 function ThreeDArt() {
     return(
         <div className='font-overpass'>
-            <h1 className='text-center'>3D Art</h1>
+            <h1 className='text-center'>3D Modeling</h1>
 
             <section className='bg-cyan-dark mx-8 rounded-tl-large mt-10'>
                 <h2 className='text-center py-5'>Afternoon Bistro</h2>

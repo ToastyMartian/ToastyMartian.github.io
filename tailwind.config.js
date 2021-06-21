@@ -10,6 +10,8 @@ module.exports = {
         'backdrop': "url('../img/wallpaper2.jpg')",
       }),
       maxWidth: {
+        '1/10': '10%',
+        '1/5': '20%',
         '1/4': '25%',
         '1/2': '50%',
         '3/4': '75%',

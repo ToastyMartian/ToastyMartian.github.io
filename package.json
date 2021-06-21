@@ -22,6 +22,7 @@
   "scripts": {
     "start": "node server/server.js",
     "build": "craco build",
+    "dev": "craco start",
     "test": "craco test",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
