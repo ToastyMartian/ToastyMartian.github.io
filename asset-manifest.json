@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ToastyMartian.github.io/static/css/main.1df4704d.chunk.css",
-    "main.js": "/ToastyMartian.github.io/static/js/main.e7ccb126.chunk.js",
-    "main.js.map": "/ToastyMartian.github.io/static/js/main.e7ccb126.chunk.js.map",
-    "runtime-main.js": "/ToastyMartian.github.io/static/js/runtime-main.eceded8d.js",
-    "runtime-main.js.map": "/ToastyMartian.github.io/static/js/runtime-main.eceded8d.js.map",
-    "static/js/2.2366236c.chunk.js": "/ToastyMartian.github.io/static/js/2.2366236c.chunk.js",
-    "static/js/2.2366236c.chunk.js.map": "/ToastyMartian.github.io/static/js/2.2366236c.chunk.js.map",
-    "static/js/3.314a566b.chunk.js": "/ToastyMartian.github.io/static/js/3.314a566b.chunk.js",
-    "static/js/3.314a566b.chunk.js.map": "/ToastyMartian.github.io/static/js/3.314a566b.chunk.js.map",
-    "index.html": "/ToastyMartian.github.io/index.html",
-    "static/css/main.1df4704d.chunk.css.map": "/ToastyMartian.github.io/static/css/main.1df4704d.chunk.css.map",
-    "static/js/2.2366236c.chunk.js.LICENSE.txt": "/ToastyMartian.github.io/static/js/2.2366236c.chunk.js.LICENSE.txt",
-    "static/media/profile.1ff274ae.jpg": "/ToastyMartian.github.io/static/media/profile.1ff274ae.jpg",
-    "static/media/index.css": "/ToastyMartian.github.io/static/media/wallpaper2.12daa058.jpg"
+    "main.css": "/static/css/main.dab29c00.chunk.css",
+    "main.js": "/static/js/main.e7ccb126.chunk.js",
+    "main.js.map": "/static/js/main.e7ccb126.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e9d0f7a1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e9d0f7a1.js.map",
+    "static/js/2.2366236c.chunk.js": "/static/js/2.2366236c.chunk.js",
+    "static/js/2.2366236c.chunk.js.map": "/static/js/2.2366236c.chunk.js.map",
+    "static/js/3.314a566b.chunk.js": "/static/js/3.314a566b.chunk.js",
+    "static/js/3.314a566b.chunk.js.map": "/static/js/3.314a566b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dab29c00.chunk.css.map": "/static/css/main.dab29c00.chunk.css.map",
+    "static/js/2.2366236c.chunk.js.LICENSE.txt": "/static/js/2.2366236c.chunk.js.LICENSE.txt",
+    "static/media/profile.1ff274ae.jpg": "/static/media/profile.1ff274ae.jpg",
+    "static/media/index.css": "/static/media/wallpaper2.12daa058.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eceded8d.js",
+    "static/js/runtime-main.e9d0f7a1.js",
     "static/js/2.2366236c.chunk.js",
-    "static/css/main.1df4704d.chunk.css",
+    "static/css/main.dab29c00.chunk.css",
     "static/js/main.e7ccb126.chunk.js"
   ]
 }
