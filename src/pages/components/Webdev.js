@@ -1,3 +1,8 @@
+//Soundworld imports
+import soundThumb from '../../img/soundworld/sound1.PNG';
+import sound1 from '../../img/soundworld/sound3.png';
+import sound2 from '../../img/soundworld/sound5.png';
+
 function Webdev() {
     return(
         <div className='font-overpass'>
@@ -5,12 +10,20 @@ function Webdev() {
 
             <section className='bg-cyan-dark mx-8 rounded-tl-large mt-10'>
                 <h2 className='text-center py-5'>Soundworld</h2>
-                <div className='text-purple-light font-thin max-w-prose m-auto'>
-                    <h4>Soundworld is a small project that I made as a programming assignment for the second period of year 2. Here I had to develop a fullstack application and create my own database to use in the application</h4>
-                    <h4 className='py-5'>While the first few weeks of the project focused on creating the data and the database using Nodejs and MongoDB, the last few focused on developing a fully functioning React application, that uses CRUD to fetch and display the data given from the database.</h4>
-                    <h4 className='py-5'>As a bonus, I could add routing and pagination to the application to more easily navigate through the data. For this project, i decided to create a musician application that displays some information on the musician, including a well-known album and concert.</h4>
+                <div className='flex justify-evenly'>
+                    <img className='max-w-1/5' src={soundThumb} alt='Screenshot of Soundworlds homepage'/>
+                    <div className='text-purple-light font-thin max-w-prose self-center'>
+                        <h4>Soundworld is a small project that I made as a programming assignment for the second period of year 2. Here I had to develop a fullstack application and create my own database to use in the application</h4>
+                        <h4 className='py-5'>While the first few weeks of the project focused on creating the data and the database using Nodejs and MongoDB, the last few focused on developing a fully functioning React application, that uses CRUD to fetch and display the data given from the database.</h4>
+                        <h4 className='py-5'>As a bonus, I could add routing and pagination to the application to more easily navigate through the data. For this project, i decided to create a musician application that displays some information on the musician, including a well-known album and concert.</h4>
+                    </div>
                 </div>
                 <h3 className='ml-10 pb-5'>Gallery</h3>
+                <div className='flex ml-10 pt-5 pb-10'>
+                    <img className='max-w-1/10 overflow-hidden mr-7' src={soundThumb} alt='Screenshot of Soundworlds homepage'/>
+                    <img className='max-w-1/10 overflow-hidden mr-7' src={sound1} alt='Screenshot of the detail page of the musician Rammstein'/>
+                    <img className='max-w-1/10 overflow-hidden' src={sound2} alt='Screenshot of the edit page of a test musician'/>
+                </div>
             </section>
 
             <section className='bg-cyan-dark mx-8 rounded-tl-large mt-20'>
