@@ -17,9 +17,9 @@ function ThreeDArt() {
             <h1 className='text-center'>3D Modeling</h1>
 
             <section className='bg-cyan-dark mx-8 rounded-tl-large mt-10'>
-                <h2 className='text-center py-5'>Afternoon Bistro</h2>
+                <h2 className='text-center py-10'>Afternoon Bistro</h2>
                 <div className='flex justify-evenly'>
-                    <img className='max-w-1/5' src={bistroThumb} alt='Render of a red glazed donut and glass cup of hot chocolate'/>
+                    <img className='max-w-1/5 my-auto' src={bistroThumb} alt='Render of a red glazed donut and glass cup of hot chocolate'/>
                     <div className='text-purple-light font-thin max-w-prose self-center'>
                         <h4>This is one of the very first 3D projects I've done using Blender. Here, I followed a well known tutorial and experimented with modeling, lighting and texturing in the different objects</h4>
                         <h4 className='py-5'>Though the scene setup is very similar to the original, I tried my best to make my own creative version of the scenery for extra practice.</h4>
@@ -36,9 +36,9 @@ function ThreeDArt() {
             </section>
 
             <section className='bg-cyan-dark mx-8 rounded-tl-large mt-20'>
-                <h2 className='text-center py-5'>Industrial Living Room (Work in progress)</h2>
+                <h2 className='text-center py-10'>Industrial Living Room (Work in progress)</h2>
                 <div className='flex justify-evenly'>
-                    <img className='max-w-1/5' src={induThumb} alt='Render of a black leather dining chair with metal legs'/>
+                    <img className='max-w-1/5 my-auto' src={induThumb} alt='Render of a black leather dining chair with metal legs'/>
                     <div className='text-purple-light font-thin max-w-prose self-center'>
                         <h4>This is a small 3D project that I started independently to really challenge myself and practice modeling realistic real life objects.</h4> 
                         <h4 className='py-5'>Added to this, I decided to turn a single chair into a personalized living room scenery to also practice composition and proper scaling of certain objects. The scene itself is how I visualize my very own studio apartment or living room.</h4>
@@ -53,9 +53,9 @@ function ThreeDArt() {
             </section>
 
             <section className='bg-cyan-dark mx-8 rounded-tl-large mt-20'>
-                <h2 className='text-center py-5'>Personalized Avatar</h2>
+                <h2 className='text-center py-10'>Personalized Avatar</h2>
                 <div className='flex justify-evenly'>
-                    <img className='max-w-1/5' src={avatarThumb} alt='Render of myself as a blocky voxel character'/>
+                    <img className='max-w-1/5 my-auto' src={avatarThumb} alt='Render of myself as a blocky voxel character'/>
                     <div className='text-purple-light font-thin max-w-prose self-center'>
                         <h4>This is where I decided to practice 3D modeling outside of my comfort zone. Though I had learned to create realistic 3D scenery, I wanted to practice adapting a certain artsyle while modeling</h4> 
                         <h4 className='py-5'>Hence why I created this little character, meant to represent myself in a 3D voxel style similar to games like Minecraft or certain mobile indie games.</h4>
