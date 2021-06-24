@@ -45,9 +45,9 @@ function UXDesign() {
                     <img className='max-w-1/5 my-auto' src={userThumb} alt='Visualisation of a made up persona with distinct personality traits and skills'/>
                     <div className='text-purple-light font-thin max-w-prose self-center'>
                         <h4>In order to create the best user experience possible, it is useful to conduct the research neccessary to find out more about your target audience and what they want to see in your product(s).</h4> 
-                        <h4 className='py-5'>To accomplish this, you could interviews and tests with the users, but you could also do some desk research, something that has grown in popularity since the recent developments surrounding the Covid pandemic.</h4>
+                        <h4 className='py-5'>To accomplish this, you could do interviews and tests with the users, but you could also do some desk research, something that has grown in popularity since the recent developments surrounding the Covid pandemic.</h4>
                         <h4 className='py-5'>I have done a variety of these in my projects, mostly depending on what type of research was most applicable to the project and its goals.</h4>
-                        <h4 className='py-5'>Below are some examples of the results and how me and my teammates ended up using the information we got from this research.</h4>
+                        <h4 className='py-5'>Below are some examples of the results and how I ended up documenting the information we got from this research.</h4>
                     </div>
                 </div>
                 <h3 className='ml-10 pb-5'>Gallery</h3>
