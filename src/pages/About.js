@@ -5,7 +5,7 @@ function About() {
         <div>
             <h1 className='text-4xl font-overpass m-auto mt-16 text-center'>About Me</h1>
             <aside className='pt-16 flex'>
-                <div className='ml-20 max-w-1/3 bg-gray-500'>
+                <div className='ml-20 max-w-1/3 my-auto bg-gray-500'>
                     <img className='mix-blend-overlay' src={profile} alt='What i look like'/>
                 </div>
                 <div className='m-auto mr-0 sm:max-w-1/2 bg-cyan-dark px-14 pt-3 pb-10 rounded-tl-large'>
